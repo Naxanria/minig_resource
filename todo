@@ -1,0 +1,27 @@
+[x] Syncing nbt on tiles
+[x] Fix Generator gui slot
+[x] Have proper bars in Generator Gui
+[x] Create Miner Gui
+- [ ] Fix blocks being dark in target preview
+[+] Create Targeting Module for Miners
+- [ ] Have them be able to be defined by json
+- [ ] Custom renderer to show what is targeted
+- [ ] Option to require a specific block underneath
+- [ ] Option to take in a catalyst items for mining
+[ ] Multiple tiers for miners
+[ ] Upgrade System
+- [ ] Upgrades cost points
+- [ ] Speed upgrade
+- [ ] Energy Capacity upgrade
+- [ ] Energy efficiency upgrade
+- [ ] Yield upgrade
+[ ] Better Models
+- [ ] Better textures
+- [ ] Better models (more than all same texture)
+- [ ] Different models and textures per tier
+[+] Generic progress bar system
+- [ ] Support textures
+[ ] En-us Localization
+[ ] Data Gen
+- [ ] Recipes
+- [ ] Loot Tables

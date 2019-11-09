@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : { "model" : "mining_resource:block/miner_iron" }
+  }
+}
